@@ -19,3 +19,11 @@
 ## 5. Fourier_series_square_wave_circles_animation 
 
 ![Fourier_series_square_wave_circles_animation](pics/Fourier_series_square_wave_circles_animation.gif)
+
+## 6. Rock Pedigree
+
+![rock_pedigree](pics/rock.jpg)
+
+## 7. TCP/IP
+
+![tcp_ip](pics/network.jpg)
