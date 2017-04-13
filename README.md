@@ -33,3 +33,7 @@
 ![clustering algorithms](pics/clustering_algorithms.png)
 
 ![clustering algorithms](pics/clustering_algorithms2.png)
+
+## 9. License
+
+![license](pics/license.jpeg)
