@@ -37,3 +37,7 @@
 ## 9. License
 
 ![license](pics/license.jpeg)
+
+## 10. Viterbi Algorithm
+
+![viterbi](pics/viterbi_animated_demo.gif)
