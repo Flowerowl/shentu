@@ -41,3 +41,7 @@
 ## 10. Viterbi Algorithm
 
 ![viterbi](pics/viterbi_animated_demo.gif)
+
+## 11. VIM Cheat Sheet
+
+![vim-cheat-sheet](pics/VIM-Cheat-Sheet.jpg)
